@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Óscar Lamas Ríos</title>
+    <link>https://example.com/project/</link>
+    <description>Recent content in Projects on Óscar Lamas Ríos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jul 2021 11:30:13 +0530</lastBuildDate><atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Statistics obtention and visualization system based on padel videos</title>
+      <link>https://example.com/project/tfg/</link>
+      <pubDate>Thu, 22 Jul 2021 11:30:13 +0530</pubDate>
+      
+      <guid>https://example.com/project/tfg/</guid>
+      <description>The incorporation of new technologies in recent years in the field of sports has promoted the extraction of large amounts of information, data and statistics of value for its subsequent analysis. In this regard, artificial intelligence plays a very important role, allowing to process of such data and create tools to support coaches in their strategy, improve player practice and performance, generate personalized advertising, or analyze the weaknesses of a rival, among many other applications.</description>
+    </item>
+    
+  </channel>
+</rss>
