@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Óscar Lamas Ríos</title>
-    <link>https://example.com/blog/</link>
+    <link>https://oscarlamasrios.github.io/blog/</link>
     <description>Recent content in Blogs on Óscar Lamas Ríos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 23:29:21 +0530</lastBuildDate><atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Apr 2021 23:29:21 +0530</lastBuildDate><atom:link href="https://oscarlamasrios.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://example.com/blog/firstpost/</link>
+      <link>https://oscarlamasrios.github.io/blog/firstpost/</link>
       <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
       
-      <guid>https://example.com/blog/firstpost/</guid>
+      <guid>https://oscarlamasrios.github.io/blog/firstpost/</guid>
       <description>Welcome to my personal blog!
 With this first post, I want to introduce you to what will be the content of this section.
 The content of the posts will provide us with information about different types of projects. Always publishing the reference links.</description>
